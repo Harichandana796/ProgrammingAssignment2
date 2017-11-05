@@ -1,7 +1,6 @@
 @@ -0,0 +1,78 @@
  +# Programming Assignment 2: Lexical Scoping
  +
- +## For the Coursera course [R Programming](https://www.coursera.org/course/rprog)
  +
  +
  +
